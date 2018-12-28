@@ -1,0 +1,48 @@
+---
+title: "Necesidads Informáticas SISOL"
+author: "Horacio Chacon Torrico"
+date: "27/12/2018"
+output:
+  revealjs::revealjs_presentation:
+    theme: black
+    center: true
+    transition: convex
+    self_contained: true
+    menu:
+        numbers: true
+---
+
+# Plan de Diagnóstico
+
+## Reunión con actores clave
+
+- Necesidades de información
+- Problemas con sistemas actuales
+
+## Mapeo de Procesos asistenciales
+
+- General
+- Específico
+
+## Reconocimiento de sistemas de información
+
+> - Sistemas administrativos
+> - Historias clínicas electrónicas
+> - Legacy Systems
+> - Sistemas de imágenes y laboratorio
+
+# Problemas
+
+## Ejemplo
+
+Hola
+
+# Soluciones
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+
